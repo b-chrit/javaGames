@@ -27,9 +27,9 @@ The Ping Pong Game's implementation also adheres to OOP principles, promoting co
 ## Usage
 To run either game, compile the respective Java file and execute the compiled class:
 ```bash
-javac SnakeGame.java
-java SnakeGame
+javac snakeGame.java
+java snakeGame
 
-javac PongGame.java
-java PongGame
+javac pingPongGame.java
+java pingPongGame
 ```
